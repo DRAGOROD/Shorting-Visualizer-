@@ -2,7 +2,7 @@
 simple Bubble Sort visualizer generates a random array of five numbers and visually demonstrates how the Bubble Sort algorithm compares and swaps elements step by step. Each stage of the sorting process is displayed so the progression from unsorted to sorted order is easy to understand.
 
 
-
+**⭐Project Link:-** https://dragorod.github.io/Shorting-Visualizer-/
 
 **🛠 Toolkits Used**
 
